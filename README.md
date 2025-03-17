@@ -17,26 +17,6 @@ Student Management System (SMS) is a comprehensive software solution designed to
 - **Database**: SQL Server
 - **Other**: Identity Authentication, API
 
-## 🚀 How to Run
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/your-username/student-management-system.git
-   ```
-2. Open the project in Visual Studio.
-3. Restore dependencies:
-   ```sh
-   dotnet restore
-   ```
-4. Apply database migrations:
-   ```sh
-   dotnet ef database update
-   ```
-5. Run the application:
-   ```sh
-   dotnet run
-   ```
-6. Open a browser and navigate to `http://localhost:5000`.
-
 ## 📌 TODO List
 - [x] Create repo on Github, License & Readme files
 - [ ] Complete authentication and authorization system.
