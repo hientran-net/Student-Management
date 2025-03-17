@@ -38,7 +38,7 @@ Student Management System (SMS) is a comprehensive software solution designed to
 6. Open a browser and navigate to `http://localhost:5000`.
 
 ## 📌 TODO List
-- [X] Create repo on Github, License & Readme files
+- [x] Create repo on Github, License & Readme files
 - [ ] Complete authentication and authorization system.
 - [ ] Implement student grade reports.
 - [ ] Add API support for external integrations.
