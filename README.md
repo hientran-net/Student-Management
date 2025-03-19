@@ -12,16 +12,12 @@ Student Management System (SMS) is a comprehensive software solution designed to
 - **Reports & Statistics**: Generate reports on student performance and other metrics.
 
 ## 🏰 Tech Stack
-- **Backend**: C#, ASP.NET Core, Entity Framework
-- **Frontend**: Razor Pages 
+- **Backend**: C# Console Applications
 - **Database**: SQL Server
 - **Other**: Identity Authentication, API
 
 ## 📌 TODO List
 - [x] Create repo on Github, License & Readme files
-- [ ] Complete authentication and authorization system.
-- [ ] Implement student grade reports.
-- [ ] Add API support for external integrations.
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
