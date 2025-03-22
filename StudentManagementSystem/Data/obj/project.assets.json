@@ -1592,6 +1592,16 @@
             "rid": "win"
           }
         }
+      },
+      "Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Models.dll": {}
+        }
       }
     }
   },
@@ -4670,12 +4680,18 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Models/1.0.0": {
+      "type": "project",
+      "path": "../Models/Models.csproj",
+      "msbuildProject": "../Models/Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
       "Microsoft.EntityFrameworkCore.Design >= 9.0.3",
-      "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.3"
+      "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.3",
+      "Models >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4709,7 +4725,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\University\\Own_Project\\2025\\Student-Management\\StudentManagementSystem\\Models\\Models.csproj": {
+              "projectPath": "D:\\University\\Own_Project\\2025\\Student-Management\\StudentManagementSystem\\Models\\Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

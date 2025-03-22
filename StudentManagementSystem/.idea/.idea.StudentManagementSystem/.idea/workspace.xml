@@ -8,8 +8,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03893711-9226-47d2-af08-b1e6b151c75c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/AppDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Docs/dev-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Docs/dev-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.StudentManagementSystem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.StudentManagementSystem/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Class1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Data.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Data.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/obj/Data.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/obj/Data.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/obj/Debug/net9.0/Data.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Data/obj/Debug/net9.0/Data.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/obj/Debug/net9.0/Data.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Data/obj/Debug/net9.0/Data.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/obj/Debug/net9.0/Data.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Data/obj/Debug/net9.0/Data.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Data/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Data/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Data/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/obj/Debug/net9.0/Models.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/obj/Debug/net9.0/Models.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/obj/Debug/net9.0/Models.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Models/obj/Debug/net9.0/Models.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Models/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program/obj/Debug/net9.0/Program.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program/obj/Debug/net9.0/Program.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program/obj/Debug/net9.0/Program.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Program/obj/Debug/net9.0/Program.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program/obj/Debug/net9.0/Program.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Program/obj/Debug/net9.0/Program.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program/obj/Program.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Program/obj/Program.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Program/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Program/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Program/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Program/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repositories/obj/Debug/net9.0/Repositories.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Repositories/obj/Debug/net9.0/Repositories.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repositories/obj/Debug/net9.0/Repositories.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Repositories/obj/Debug/net9.0/Repositories.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repositories/obj/Debug/net9.0/Repositories.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Repositories/obj/Debug/net9.0/Repositories.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repositories/obj/Repositories.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Repositories/obj/Repositories.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repositories/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Repositories/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repositories/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Repositories/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repositories/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Repositories/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repositories/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Repositories/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Serivces/obj/Debug/net9.0/Serivces.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Serivces/obj/Debug/net9.0/Serivces.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Serivces/obj/Debug/net9.0/Serivces.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Serivces/obj/Debug/net9.0/Serivces.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Serivces/obj/Debug/net9.0/Serivces.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Serivces/obj/Debug/net9.0/Serivces.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Serivces/obj/Serivces.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Serivces/obj/Serivces.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Serivces/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Serivces/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Serivces/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Serivces/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Serivces/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Serivces/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Serivces/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Serivces/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,10 +66,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 8
-}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../../../CN2303CLCB_K23/Kì 1 Năm 2/Công_Nghệ_Phần_Mềm/Project/Main-Source-branch/Koi_Pond_Construction_Ordering_System/Admin_Src/ConstructionOdering.Repositories/Entities/AdminDbConsturctionOderingSystemContext.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2ufcNCpvEEUdW4BZfqqOri91j5u" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -40,6 +83,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET Project.Program.executor": "Run",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -81,6 +125,7 @@
       <option name="presentableId" value="Default" />
       <updated>1742643027014</updated>
       <workItem from="1742643028363" duration="1719000" />
+      <workItem from="1742652527222" duration="2160000" />
     </task>
     <servers />
   </component>

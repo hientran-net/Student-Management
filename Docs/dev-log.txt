@@ -47,6 +47,15 @@ dotnet add package Microsoft.EntityFrameworkCore.Design 	(class library Data)
 dotnet add package Microsoft.EntityFrameworkCore 		(class library Repositories)
 
 
+- Migration :
+	+ Di chuyển terminal tới folder thực hiện migration
+	+ Thực hiện tạo với câu lệnh sau:
+
+		dotnet ef migrations add InitialCreate
+
+	+ Sau đó update:
+
+		dotnet ef database update
 		
 
 

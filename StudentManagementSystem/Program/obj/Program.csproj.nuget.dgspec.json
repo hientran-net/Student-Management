@@ -31,7 +31,11 @@
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\University\\Own_Project\\2025\\Student-Management\\StudentManagementSystem\\Models\\Models.csproj": {
+                "projectPath": "D:\\University\\Own_Project\\2025\\Student-Management\\StudentManagementSystem\\Models\\Models.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
