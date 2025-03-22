@@ -1,0 +1,64 @@
+[22-03-2025] - BẮT ĐẦU VỚI DỰ ÁN : QUẢN LÝ SINH VIÊN ( STUENT MANAGEMENT SYSTEM )
+- Quyết định sử dụng Code First với thư viện Entity Framework Core.
+- Thảo luận về việc thiết kế cấu trúc thư mục: Các bước thực hiện như sau.
+	📦 StudentManagementSystem (Solution)
+ ├── 📂 StudentManagementSystem.ConsoleApp   (Presentation Layer - UI)
+ │   ├── Program.cs
+ │   ├── AppConfig.cs
+ │   ├── UI/
+ │   ├── Menus/
+ │   └── Helpers/
+ │
+ ├── 📂 StudentManagementSystem.Services     (Business Logic Layer - BLL)
+ │   ├── IStudentService.cs
+ │   ├── StudentService.cs
+ │   ├── ICourseService.cs
+ │   ├── CourseService.cs
+ │   └── ...
+ │
+ ├── 📂 StudentManagementSystem.Repositories (Data Access Layer - DAL)
+ │   ├── IStudentRepository.cs
+ │   ├── StudentRepository.cs
+ │   ├── ICourseRepository.cs
+ │   ├── CourseRepository.cs
+ │   └── ...
+ │
+ ├── 📂 StudentManagementSystem.Data         (DbContext - EF Core)
+ │   ├── AppDbContext.cs
+ │   ├── Migrations/
+ │   ├── appsettings.json
+ │   ├── DataSeeder.cs
+ │   └── ...
+ │
+ ├── 📂 StudentManagementSystem.Models       (Entities - POCO)
+ │   ├── Student.cs
+ │   ├── Course.cs
+ │   ├── Instructor.cs
+ │   ├── Enrollment.cs
+ │   └── ...
+ │
+ └── StudentManagementSystem.sln
+
+
+- Thêm các package cho từng class library bằng lệnh trong terminal
+
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer 	(class library Data)
+dotnet add package Microsoft.EntityFrameworkCore.Design 	(class library Data)
+dotnet add package Microsoft.EntityFrameworkCore 		(class library Repositories)
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
